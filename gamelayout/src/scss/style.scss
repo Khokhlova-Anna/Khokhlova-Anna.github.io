@@ -1,3 +1,11 @@
+body{
+    color:#fff;
+}
+#ocean{
+    background: url('/assets/bg.jpg') no-repeat;
+    background-size: cover;
+    background-position: 0 60%;
+}
 .navbar{
     width:100%;
     background: none !important;
@@ -26,4 +34,11 @@
           }
       }
     }
+}
+h1{
+    font-weight: bold;
+    font-size: 3.5em;
+}
+.ocean-img{
+    width:90%;
 }
